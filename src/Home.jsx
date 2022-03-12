@@ -1,5 +1,5 @@
 import React from "react";
-import web from "../src/images/home-page-animation.gif";
+import web from "../src/images/home-page-animation.jpg";
 import {NavLink} from "react-router-dom";
 
 const Home = () => {
