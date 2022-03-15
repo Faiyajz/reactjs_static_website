@@ -1,5 +1,5 @@
 import React from "react";
-import web from "../src/images/home-page-animation.jpg";
+import web from "../src/images/digital-marketing.gif";
 import {NavLink} from "react-router-dom";
 import Common from './Common'
 
